@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/435116046b8c47f7a47d2056c1b25234/artifacts
+end_time: 1754680883978
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: 435116046b8c47f7a47d2056c1b25234
+run_name: indecisive-gull-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680883896
+status: 3
+tags: []
+user_id: Prakriti

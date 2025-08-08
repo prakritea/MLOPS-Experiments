@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e54814a5bcdd4d4ca0e816dc83f49876/artifacts
+end_time: 1754314604910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e54814a5bcdd4d4ca0e816dc83f49876
+run_name: capable-hawk-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754314602034
+status: 4
+tags: []
+user_id: Prakriti

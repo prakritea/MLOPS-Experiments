@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1dd775cd459c4a53847034c14959f263/artifacts
+end_time: 1754247365520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dd775cd459c4a53847034c14959f263
+run_name: ambitious-slug-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754247365280
+status: 3
+tags: []
+user_id: Prakriti

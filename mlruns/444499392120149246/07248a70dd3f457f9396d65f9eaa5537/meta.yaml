@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/444499392120149246/07248a70dd3f457f9396d65f9eaa5537/artifacts
+end_time: 1754318597073
+entry_point_name: ''
+experiment_id: '444499392120149246'
+lifecycle_stage: active
+run_id: 07248a70dd3f457f9396d65f9eaa5537
+run_name: gregarious-sow-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754318585572
+status: 3
+tags: []
+user_id: Prakriti

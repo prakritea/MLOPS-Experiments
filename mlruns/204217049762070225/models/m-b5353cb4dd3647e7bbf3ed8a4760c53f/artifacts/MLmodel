@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/models/m-b5353cb4dd3647e7bbf3ed8a4760c53f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.4
+model_id: m-b5353cb4dd3647e7bbf3ed8a4760c53f
+model_size_bytes: 317818
+model_uuid: m-b5353cb4dd3647e7bbf3ed8a4760c53f
+prompts: null
+run_id: d46a2215de98498883fa6e2b0a308350
+utc_time_created: '2025-08-08 19:17:56.427651'

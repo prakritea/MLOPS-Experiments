@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225
+creation_time: 1754667273598
+experiment_id: '204217049762070225'
+last_update_time: 1754667273598
+lifecycle_stage: active
+name: breast-cancer-rf-hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/6d53a64fb033470fa34710b00a0e8e46/artifacts
+end_time: 1754680884146
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: 6d53a64fb033470fa34710b00a0e8e46
+run_name: funny-dove-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680884068
+status: 3
+tags: []
+user_id: Prakriti

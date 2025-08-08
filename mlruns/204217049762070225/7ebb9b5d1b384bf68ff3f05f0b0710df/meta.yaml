@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/7ebb9b5d1b384bf68ff3f05f0b0710df/artifacts
+end_time: 1754680884062
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: 7ebb9b5d1b384bf68ff3f05f0b0710df
+run_name: traveling-toad-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680883984
+status: 3
+tags: []
+user_id: Prakriti

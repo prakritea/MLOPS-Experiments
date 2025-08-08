@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/444499392120149246/37dec04266c6473bbf5b21ec0b9adb3c/artifacts
+end_time: 1754330983897
+entry_point_name: ''
+experiment_id: '444499392120149246'
+lifecycle_stage: active
+run_id: 37dec04266c6473bbf5b21ec0b9adb3c
+run_name: burly-crow-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754330968568
+status: 3
+tags: []
+user_id: Prakriti

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/2cc9c61c5c1a4c0f9d8db3a5f8b48038/artifacts
+end_time: 1754680883626
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: 2cc9c61c5c1a4c0f9d8db3a5f8b48038
+run_name: mysterious-stag-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680883542
+status: 3
+tags: []
+user_id: Prakriti

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/3b54a75e1d3845e08298907157b3a6f6/artifacts
+end_time: 1754680883457
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: 3b54a75e1d3845e08298907157b3a6f6
+run_name: rare-ape-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680883360
+status: 3
+tags: []
+user_id: Prakriti

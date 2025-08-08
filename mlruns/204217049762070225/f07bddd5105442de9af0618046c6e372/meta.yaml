@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/f07bddd5105442de9af0618046c6e372/artifacts
+end_time: 1754680883713
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: f07bddd5105442de9af0618046c6e372
+run_name: dazzling-conch-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680883631
+status: 3
+tags: []
+user_id: Prakriti

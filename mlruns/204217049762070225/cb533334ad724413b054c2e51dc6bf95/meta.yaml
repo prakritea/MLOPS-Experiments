@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Prakriti/Desktop/MLOPS/MLOPS-Experiments/mlruns/204217049762070225/cb533334ad724413b054c2e51dc6bf95/artifacts
+end_time: 1754680883800
+entry_point_name: ''
+experiment_id: '204217049762070225'
+lifecycle_stage: active
+run_id: cb533334ad724413b054c2e51dc6bf95
+run_name: bemused-dog-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754680883719
+status: 3
+tags: []
+user_id: Prakriti

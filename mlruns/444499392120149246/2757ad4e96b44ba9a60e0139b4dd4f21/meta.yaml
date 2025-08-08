@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/444499392120149246/2757ad4e96b44ba9a60e0139b4dd4f21/artifacts
+end_time: 1754318377297
+entry_point_name: ''
+experiment_id: '444499392120149246'
+lifecycle_stage: active
+run_id: 2757ad4e96b44ba9a60e0139b4dd4f21
+run_name: clumsy-slug-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754318352882
+status: 3
+tags: []
+user_id: Prakriti

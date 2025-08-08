@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b99c64d54384659aab8b77f5e093ecd/artifacts
+deleted_time: 1754245619048
+end_time: 1754245504892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5b99c64d54384659aab8b77f5e093ecd
+run_name: clean-flea-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754245504771
+status: 4
+tags: []
+user_id: Prakriti

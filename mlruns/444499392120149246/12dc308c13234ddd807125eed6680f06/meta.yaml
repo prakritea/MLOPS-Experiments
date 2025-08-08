@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/444499392120149246/12dc308c13234ddd807125eed6680f06/artifacts
+end_time: 1754333054064
+entry_point_name: ''
+experiment_id: '444499392120149246'
+lifecycle_stage: active
+run_id: 12dc308c13234ddd807125eed6680f06
+run_name: unruly-slug-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754333042629
+status: 3
+tags: []
+user_id: Prakriti
